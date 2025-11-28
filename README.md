@@ -100,12 +100,4 @@ This tool is meant for prototypes, demos, and personal productivity. For product
 
 [MIT License](LICENSE) (modify as required by your project or organizational guidelines)
 
----
-
-## 👋 Contact
-
-For Oracle-internal use, reach out via the AI for Employees resources or [#help-oracle-genai-chat](https://oracle.enterprise.slack.com/archives/C08S2U7HDPU).
-
----
-
 *Happy chatting with your favorite videos!*
