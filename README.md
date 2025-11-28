@@ -1,7 +1,3 @@
-Certainly! Below is a README file suitable for your **YouTube Chat Bot** Streamlit + LangChain application utilizing Oracle Cloud Infrastructure (OCI). It describes the features, setup, and steps needed for running your code, and outlines required dependencies and configuration.
-
----
-
 # 🎥 YouTube Chat Bot (Oracle Cloud + LangChain)
 
 A Streamlit web application that allows you to interactively ask questions about YouTube videos using the video's transcript as knowledge source. This app leverages [LangChain](https://python.langchain.com/), [FAISS vector store](https://github.com/facebookresearch/faiss), Cohere LLM/embeddings hosted on [Oracle Cloud Infrastructure Generative AI](https://www.oracle.com/cloud/ai/generative-ai/), and supports secure deployment and private inference.
